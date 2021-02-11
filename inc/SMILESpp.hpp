@@ -7,7 +7,6 @@
 #ifndef _SMILESpp_SMILESpp_hpp_
 #define _SMILESpp_SMILESpp_hpp_
 
-#include <iostream>
 #include <string>
 #include <vector>
 

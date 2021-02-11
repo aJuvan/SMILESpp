@@ -3,5 +3,9 @@ bin
 lib
 obj
 
+# User files
+compile_commands.json
+
 # Temporary files
 .*.swp
+.cache
